@@ -1,0 +1,10 @@
+os
+random
+glob
+numpy
+matplotlib
+time
+tensorflow
+tensorflow_datasets
+tensorflow_addons
+"tensorflow_gpu[CUDA]"
